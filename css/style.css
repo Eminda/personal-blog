@@ -712,6 +712,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .education_area .education_inner_area .education_item:nth-child(odd) {
+  margin-top: 20px;
   float: left;
 }
 
